@@ -4,7 +4,7 @@
 </br></br>
 
 
-<a href="https://solved.ac/profile/qhaqkfka2001"><img align="center" style="height:185px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=qhaqkfka2001" alt="trumanjinhwan's github stats" /></a> 
+<a href="https://solved.ac/profile/qhqkfka2001"><img align="center" style="height:185px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=qhaqkfka2001" alt="trumanjinhwan's github stats" /></a> 
 <br> <br>
 <a href="https://github.com/trumanjinhwan"><img align="center" style="height:185px" src="https://github-readme-stats.vercel.app/api?username=trumanjinhwan&show_icons=true&theme=tokyonight" alt="trumanjinhwan's github stats" /></a>
 <a href="https://github.com/trumanjinhwan"><img align="center" style="height:185px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trumanjinhwan&layout=compact&theme=tokyonight" alt="trumanjinhwan's github stats" /></a>
