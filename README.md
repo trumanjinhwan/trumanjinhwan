@@ -34,7 +34,10 @@
 </br></br></br>
 
 ##### - 📫 Email: trumanjinhwan@gmail.com </br>
-<a href="https://trumanjinhwan.github.io/" target="_blank"><img src="https://img.shields.io/badge/Github Pages-#222222?style=flat-square&logo=githubpages&logoColor=white"/></a>
+<a href="https://trumanjinhwan.github.io/" target="_blank">
+  <img src="https://img.shields.io/badge/Github%20Pages-222222?style=flat-square&logo=github&logoColor=white"/>
+</a>
+
 <a href="https://github.com/trumanjinhwan" target="_blank"><img src="https://img.shields.io/badge/GitHub-2a2a2a?style=flat-square&logo=GigHub&logoColor=white"/></a>
 
 </br>
