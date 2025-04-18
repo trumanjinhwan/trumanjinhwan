@@ -1,6 +1,6 @@
 
 👋 Hi, I’m @trumanjinhwan  </br>
-🌱 I’m currently learning Java, DB, JSP
+🌱 I’m currently learning Java, Python, HTML/CSS, Javascript, DB
 </br></br>
 
 
