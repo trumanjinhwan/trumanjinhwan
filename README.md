@@ -35,6 +35,7 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/Cursor%20IDE-4285F4?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/Windsurfer-F5F5DC?style=for-the-badge&background=F5F5DC&logoColor=F5F5DC"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 
 
 
