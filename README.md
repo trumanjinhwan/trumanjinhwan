@@ -36,6 +36,7 @@
   <img src="https://img.shields.io/badge/Cursor%20IDE-4285F4?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/Windsurfer-F5F5DC?style=for-the-badge&background=F5F5DC&logoColor=F5F5DC"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
 
 
